@@ -1,6 +1,2 @@
-# javascript-code-snippet
-javascript code snippet (promise, async/await, ES6, ... )
-
-reference https://scotch.io/tutorials/javascript-promises-for-dummies
-
-번역중
+# reusable code snippet
+- now async patterns translating from [reference](https://scotch.io/tutorials/javascript-promises-for-dummies)
